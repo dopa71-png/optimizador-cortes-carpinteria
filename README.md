@@ -7,7 +7,7 @@ Optimizador de cortes 2D para carpintería que corre **100% en el navegador**.
 
 ## 🌐 Demo en Vivo
 
-[https://TU-USUARIO.github.io/optimizador-cortes-carpinteria/](https:dopa71-png/optimizador-cortes-carpinteria/)
+[https://TU-USUARIO.github.io/optimizador-cortes-carpinteria/]([https:dopa71-png/optimizador-cortes-carpinteria/](https://github.com/dopa71-png/optimizador-cortes-carpinteria/))
 
 ## ✨ Características
 
